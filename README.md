@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @WaterBlue111
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me for email [emur894@gmail.com]
+Welcome? I don't know. I am Blue Water. Nice to meet you?
+
+Well, I'm a human being interested in some questionable things, like Fate/Grand Order.
+
+I'm currently doing my best to learn English (I speak Portuguese), and a little bit of programming. Perhaps one day it will bear satisfactory fruit.
+
+If you want to talk to me, use this email [emur894@gmail.com]
 
 <!---
 WaterBlue111/WaterBlue111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
